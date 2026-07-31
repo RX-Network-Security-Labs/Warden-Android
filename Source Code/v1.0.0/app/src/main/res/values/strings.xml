@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Warden</string>
+    <string name="app_full_name">Warden - Privacy Logger</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_apps">Apps</string>
+    <string name="tab_logs">Logs</string>
+    <string name="tab_settings">Settings</string>
+    <string name="live_logging">Live Logging</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="shizuku_setup">Shizuku Setup</string>
+    <string name="adb_setup">ADB Setup</string>
+    <string name="export_logs">Export Logs</string>
+    <string name="about">About</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="developer">RX Network Security Labs (RNSL)</string>
+    <string name="github_url">https://github.com/RX-Network-Security-Labs</string>
+    <string name="discord_url">https://discord.com/channels/1516826054176669718/1518128528925917364</string>
+    <string name="website_url">https://rx-network-security-labs.github.io/website/</string>
+    <string name="warden_watching">Warden is watching</string>
+    <string name="requires_shizuku_adb">Requires Shizuku or ADB</string>
+    <string name="open_developer_options">Open Developer Options</string>
+    <string name="check_shizuku_status">Check Shizuku Status</string>
+    <string name="notification_channel_name">Warden Service</string>
+    <string name="notification_channel_desc">Warden background monitoring service</string>
+    <string name="notification_title">Warden is active</string>
+    <string name="notification_text">Monitoring app permissions in background</string>
+    <string name="adb_notification_title">Warden ADB Pairing</string>
+    <string name="adb_notification_text">Enter the pairing code from Developer Options</string>
+</resources>

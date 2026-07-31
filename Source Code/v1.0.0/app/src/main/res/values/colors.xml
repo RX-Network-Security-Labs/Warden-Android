@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warden_blue">#1565C0</color>
+    <color name="warden_blue_light">#1E88E5</color>
+    <color name="warden_blue_dark">#0D47A1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="surface_light">#F5F5F5</color>
+    <color name="surface_dark">#121212</color>
+    <color name="good_green">#4CAF50</color>
+    <color name="bad_red">#F44336</color>
+    <color name="unknown_grey">#9E9E9E</color>
+</resources>
